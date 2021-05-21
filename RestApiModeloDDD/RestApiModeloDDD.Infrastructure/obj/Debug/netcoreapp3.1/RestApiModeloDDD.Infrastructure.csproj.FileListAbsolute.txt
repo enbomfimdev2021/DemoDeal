@@ -1,0 +1,15 @@
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infrastructure.csprojAssemblyReference.cache
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infrastructure.AssemblyInfoInputs.cache
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infrastructure.AssemblyInfo.cs
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Infrastructure.deps.json
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Infrastructure.runtimeconfig.json
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Infrastructure.runtimeconfig.dev.json
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Infrastructure.dll
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Infrastructure.pdb
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infrastructure.csproj.CoreCompileInputs.cache
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infrastructure.csproj.CopyComplete
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infrastructure.dll
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infrastructure.pdb
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Infrastructure\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Infrastructure.genruntimeconfig.cache

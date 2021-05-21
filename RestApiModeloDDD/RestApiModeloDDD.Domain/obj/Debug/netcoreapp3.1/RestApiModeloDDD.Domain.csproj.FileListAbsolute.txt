@@ -1,0 +1,9 @@
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Domain\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.deps.json
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Domain\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Domain\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.csprojAssemblyReference.cache
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.AssemblyInfoInputs.cache
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.AssemblyInfo.cs
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.csproj.CoreCompileInputs.cache
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+C:\DEV\SIS\APRENDE\RestApiModeloDDD\RestApiModeloDDD.Domain\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
