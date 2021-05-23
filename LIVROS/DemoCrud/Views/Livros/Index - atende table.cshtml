@@ -1,0 +1,42 @@
+﻿@model IEnumerable<DemoCrud.Models.Entidades.Livro>
+
+@{
+                /**/
+
+                ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@*Html.Action("Listar", new { pagina = 2, registros = 10 })*@
+
+<div id="listagemDeLivros"></div>
+@section scripts{
+    <script type="text/javascript">
+
+        $(document).ready(configurarControles);
+
+        function configurarControles() {
+
+            $("#listagemDeLivros").load("@Url.Action("Listar")");
+
+        }
+
+        var pagina = 1;
+        function paginar(valor) {
+
+            var paginaNova = pagina + valor;
+
+            $("#listagemDeLivros").load("@Url.Action("Listar")", { pagina: paginaNova });
+
+            pagina = paginaNova
+        }
+
+    </script>
+
+}
+
